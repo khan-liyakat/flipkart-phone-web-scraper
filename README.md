@@ -54,13 +54,6 @@ This project demonstrates end-to-end web scraping and data extraction: sending H
 | Rating | Average product rating |
 | Price | Product price (INR) |
 
-## Installation
-
-```bash
-git clone https://github.com/<your-username>/flipkart-phone-web-scraper.git
-cd flipkart-phone-web-scraper
-pip install -r requirements.txt
-```
 
 ## Requirements
 
