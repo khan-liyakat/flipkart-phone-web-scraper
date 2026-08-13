@@ -81,14 +81,11 @@ selenium
 - Practicing web scraping, data cleaning, and regex skills
 
 ## Disclaimer
-
-This project is intended for educational and portfolio purposes only. Web scraping may be subject to a website's Terms of Service; always review and comply with the target website's `robots.txt` and usage policies before scraping.
+This project is intended for educational and portfolio purposes only. 
 
 ## Author
 
 **Er. Liyakat Ahamd Khan**
 [LinkedIn](https://www.linkedin.com/in/liyakat-ahmad-khan/) | [GitHub](https://github.com/khan-liyakat) | [Portfolio](https://erliyakat.vercel.app/)
 
-## License
 
-This project is licensed under the MIT License.
